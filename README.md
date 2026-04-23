@@ -33,19 +33,6 @@ The model is trained on the **Titanic dataset from Kaggle**.
 
 ---
 
-## 📂 Project Structure
-
-```
-project/
-│
-├── notebook.ipynb       # Complete Colab notebook
-├── data/                # (optional) dataset
-├── outputs/             # saved weights (optional)
-└── README.md
-```
-
----
-
 ## 🚀 How to Run
 
 ### Option 1: Google Colab (Recommended)
